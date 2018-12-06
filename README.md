@@ -1,8 +1,7 @@
 ## RSA (Rivest, Shamir, Adleman), Developed in 1977
 * Creating public/private keys:
 
-1. Choose two large prime numbers p , q 
-(e.g., 1024 bits each)
+1. Choose two large prime numbers p , q (e.g., 1024 bits each)
 2. Compute n = pq,  z = (p-1)(q-1)
 3. Choose e (with e<n) that has no common factors with z. (e, z are “relatively prime”).
 4. Choose d such that ed-1 is  exactly divisible by z (in other words: ed mod z  = 1 ).
