@@ -1,4 +1,10 @@
 ## RSA (Rivest, Shamir, Adleman), Developed in 1977
+
+## See how it work's here 
+https://youtu.be/A-InPy8PLPE
+
+
+
 * Creating public/private keys:
 
 1. Choose two large prime numbers p , q (e.g., 1024 bits each)
